@@ -1,0 +1,12 @@
+.searchform-box {
+    padding: 20px;
+}
+.searchform-box input {
+    border-radius: 10px;
+    height: 30px;
+    width: 100%;
+    max-width: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Raleway', sans-serif;
+}

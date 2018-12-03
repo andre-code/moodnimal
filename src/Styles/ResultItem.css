@@ -1,0 +1,19 @@
+figure {
+    max-width: 400px;
+    float: left;
+    height: auto;
+    display: block;
+}
+figure .box-image{
+    max-width: 350px;
+    max-height: 350px;
+    overflow: hidden;
+} 
+figure img {
+    height: 350px;
+}
+figcaption {
+    position: relative;
+    top: -20px;
+    font-family: 'Raleway', sans-serif;
+}
